@@ -56,6 +56,7 @@ app.get("/", async (req, res) => {
         title: data[i].title,
       });
     }
+    finalresult.sort((a, b) => b.citation.length - a.citation.length);
     return res.status(200).json({
       success: true,
       finalresult,

@@ -2,16 +2,16 @@
   "success": true,
   "finalresult": [
     {
-      "heading": "Start with an action word",
-      "summary": "It is important to use language that is unbiased, non-harmful, and respectful in prompts, promoting fairness and inclusivity",
-      "citation": [0],
-      "example": "Can you tell me how to become a content marketer"
-    },
-    {
       "heading": "Provide context",
       "summary": " Providing clear context is crucial when writing prompts for AI models like ChatGPT. To enable the model to generate accurate and relevant answers, it is important to provide sufficient background information that helps the model understand the topic or scenario being presented. Writing a ChatGPT prompt goes beyond a simple one-sentence question and involves offering relevant context to establish the necessary framework for the query.",
       "citation": [0, 1, 3, 4],
       "example": "Context is crucial for both humans and AI systems like ChatGPT. To achieve the desired output, it is important to carefully consider what you want the AI to generate and provide a prompt that is tailored specifically to that objective. Clear context is vital for accurate diagnosis by doctors and for ChatGPT to generate relevant answers. Writing an effective ChatGPT prompt involves providing relevant background information to establish the necessary context for the query."
+    },
+    {
+      "heading": "Include the length of the response",
+      "summary": "ChatGPT can deliver impressive results when provided with restrictions, such as specifying the desired length of the response in terms of word count or number of paragraphs. Therefore, it is encouraged to communicate these limitations to the model for more controlled and concise responses.",
+      "citation": [0, 2, 3, 4],
+      "example": "Elaborate about ‘content marketing’ in 300 words."
     },
     {
       "heading": "Use role play",
@@ -20,16 +20,16 @@
       "example": "You are a marketing veteran for software products with ten years of experience in the industry. You have built marketing strategies for successful software products like Vimeo, Freshworks, Hubspot, and Zoho. Using your marketing experience, advise me on how to build awareness for my newly launched CRM software product 'Zilio'"
     },
     {
+      "heading": "Start with an action word",
+      "summary": "It is important to use language that is unbiased, non-harmful, and respectful in prompts, promoting fairness and inclusivity",
+      "citation": [0],
+      "example": "Can you tell me how to become a content marketer"
+    },
+    {
       "heading": "Use references",
       "summary": " Chatgpt has the capability to mimic the writing style of any celebrity if you specify it in the prompt.",
       "citation": [0],
       "example": "Write a list of mistakes to avoid in the 20s in Shakespeare style"
-    },
-    {
-      "heading": "Include the length of the response",
-      "summary": "ChatGPT can deliver impressive results when provided with restrictions, such as specifying the desired length of the response in terms of word count or number of paragraphs. Therefore, it is encouraged to communicate these limitations to the model for more controlled and concise responses.",
-      "citation": [0, 2, 3, 4],
-      "example": "Elaborate about ‘content marketing’ in 300 words."
     },
     {
       "heading": "Keep Your Audience in Mind",
