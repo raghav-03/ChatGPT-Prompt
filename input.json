@@ -1,0 +1,117 @@
+[
+  {
+    "url": "https://writesonic.com/blog/how-to-write-chatgpt-prompts/",
+    "tittle": "How to write the perfect ChatGPT prompt and become a Prompt writer",
+    "content": [
+      {
+        "heading": "Start with an action word",
+        "summary": "Always start your ChatGPT prompt with action words like Create, Write, Make, and Generate instead of starting with ‘Can you’",
+        "example": "Can you tell me how to become a content marketer?"
+      },
+      {
+        "heading": "Provide context",
+        "summary": "A doctor can better diagnose a patient's condition with a clear context of the symptoms. Similarly, ChatGpt can generate a relevant answer with enough context for your question.",
+        "example": " I have 3 years of experience as a software developer. Now I got bored with coding and want to transition to another career. My education qualifications are B. Tech in computer science, and I am well-versed in understanding the business side of software as well. Suggest a list of career options that are easy for me to transition."
+      },
+      {
+        "heading": " Use role play",
+        "summary": "You can ask ChatGpt to role-play. For example, you are seeking content marketing advice on improving brand awareness for your newly launched CRM software.",
+        "example": " You are a marketing veteran for software products with ten years of experience in the industry. You have built marketing strategies for successful software products like Vimeo, Freshworks, Hubspot, and Zoho. Using your marketing experience, advise me on how to build awareness for my newly launched CRM software product 'Zilio'"
+      },
+      {
+        "heading": "Use references",
+        "summary": "If you want to mimic the writing style of any celebrity, then Chatgpt can do that, too, if you mention it in the prompt.",
+        "example": "Write a list of mistakes to avoid in the 20s in Shakespeare style"
+      },
+      {
+        "heading": "Include the length of the response",
+        "summary": "Chatgpt does not know if you want a crisp two lines response or a comprehensive paragraph for your prompt. It would come up with its response length if not mentioned in the prompt. To avoid confusion and regenerations, it is good to specify the response length in the prompt.",
+        "example": " Elaborate about ‘content marketing’ in 300 words."
+      }
+    ]
+  },
+  {
+    "url": "https://www.zdnet.com/article/how-to-write-better-chatgpt-prompts/",
+    "tittle": "How to write better ChatGPT prompts",
+    "content": [
+      {
+        "heading": "Set the stage and provide context",
+        "summary": "Writing a ChatGPT prompt is more than just asking a one-sentence question. It often involves providing relevant background information to set the context of the query.",
+        "example": "I am a beginner runner and have never run a marathon before, but I want to complete one in six months. How can I prepare for a marathon?"
+      },
+      {
+        "heading": "Tell the AI to assume an identity or profession",
+        "summary": "One of ChatGPT's coolest features is that it can write from the point of view of a specific person or profession.",
+        "example": "From the point of view of its product manager, describe the Amazon Echo Alexa device."
+      }
+    ]
+  },
+  {
+    "url": "https://www.wired.com/story/11-tips-better-chatgpt-prompts/",
+    "tittle": "11 Tips to Take Your ChatGPT Prompts to the Next Level",
+    "content": [
+      {
+        "heading": "Set Limits on the Answers You Get",
+        "summary": "ChatGPT can really impress when it's given restrictions to work inside, so don't be shy when it comes to telling the bot to limit its responses to a certain number of words or a certain number of paragraphs.",
+        "example": "Explain the difference between a crocodile and an alligator in 100 words."
+      },
+      {
+        "heading": "Output Text in the Style of Your Favorite Author",
+        "summary": "With some careful prompting, you can get ChatGPT out of its rather dull, matter-of-fact, default tone and into something much more interesting—such as the style of your favorite author",
+        "example": "Write a short story in the style of Ernest Hemingway."
+      },
+      {
+        "heading": "Keep Your Audience in Mind",
+        "summary": "Another way of tweaking the way that ChatGPT responds to you is to tell it who its audience is. You might have seen the videos in which complex subjects are explained to people with different levels of understanding, and this works in a similar way.",
+        "example": "You can tell ChatGPT that you are speaking to a bunch of 10-year-olds or to an audience of business entrepreneurs and it will respond accordingly."
+      }
+    ]
+  },
+  {
+    "url": "https://zapier.com/blog/gpt-prompt/",
+    "tittle": "How to write an effective GPT-3 or GPT-4 prompt",
+    "content": [
+      {
+        "heading": "Offer context",
+        "summary": "Just like humans, AI does better with context. Think about exactly what you want the AI to generate, and provide a prompt that's tailored specifically to that.",
+        "example": "As a professional dog trainer, write an email to a client who has a new 3-month-old Corgi about the activities they should do to house train their puppy."
+      },
+      {
+        "heading": "Tell it the length of the response you want ",
+        "summary": "When crafting your GPT prompts, It's helpful to provide a word count for the response, so you don't get a 500-word answer when you're looking for a sentence (or vice versa). You might even use a range of acceptable lengths.",
+        "example": "Write a 500-word summary of this article."
+      },
+      {
+        "heading": "Define the expected formats ",
+        "summary": "GPT can output various code languages like Python and HTML as well as visual styles like charts and CSVs. Telling it the format of both your input and your desired output will help you get exactly what you need ",
+        "example": "Write a Python function that takes a list of numbers and returns the sum of all the numbers in the list."
+      },
+      {
+        "heading": "Ask it to help you come up with a prompt",
+        "summary": "The idea here is to use the AI model as a brainstorming tool, employing its knowledge base and pattern recognition capabilities to generate prompt ideas that you might not have considered. ",
+        "example": " I'm looking to create a prompt for error messages. I have a few needs: I need to understand the error, I need the main components of the error broken down, and I need to know what's happened sequentially leading up to the error, its possible root causes, and recommended next steps—and I need all this info formatted in bullet points."
+      }
+    ]
+  },
+  {
+    "url": "https://www.greataiprompts.com/chat-gpt/how-to-write-better-chat-gpt-or-gpt-prompts/?expand_article=1",
+    "tittle": "How To Write Better GPT-4 Prompts To Get Better Results?",
+    "content": [
+      {
+        "heading": "Be Specific In Your Writing",
+        "summary": "The answer will be more useful if you give a specific question. Give specific instructions or ask for a specific kind of information instead of asking a general question. ",
+        "example": "“What is the capital of France?” instead of “What is the capital of a European country?”"
+      },
+      {
+        "heading": "Provide Context",
+        "summary": "When writing a prompt for an AI model like Chat GPT, context is very important. For the model to come up with a good answer, it needs to know what the prompt is about. Give the model enough background information to help them understand the topic or scenario you’re presenting.",
+        "example": "I am a working proffesion in software development field and want to learn about new tech stack how i can do this while doing my job"
+      },
+      {
+        "heading": "Consider the Length",
+        "summary": "A longer prompt can give more context and details, but it can also be harder for the model to understand. A shorter question might be easier for the model to understand, but it might not give enough information for a good answer.",
+        "example": "Write an article of length 300 words about indian economy."
+      }
+    ]
+  }
+]

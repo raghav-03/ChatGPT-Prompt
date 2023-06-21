@@ -1,0 +1,81 @@
+{
+  "success": true,
+  "finalresult": [
+    {
+      "heading": "Start with an action word",
+      "summary": "It is important to use language that is unbiased, non-harmful, and respectful in prompts, promoting fairness and inclusivity",
+      "citation": [0],
+      "example": "Can you tell me how to become a content marketer"
+    },
+    {
+      "heading": "Provide context",
+      "summary": " Providing clear context is crucial when writing prompts for AI models like ChatGPT. To enable the model to generate accurate and relevant answers, it is important to provide sufficient background information that helps the model understand the topic or scenario being presented. Writing a ChatGPT prompt goes beyond a simple one-sentence question and involves offering relevant context to establish the necessary framework for the query.",
+      "citation": [0, 1, 3, 4],
+      "example": "Context is crucial for both humans and AI systems like ChatGPT. To achieve the desired output, it is important to carefully consider what you want the AI to generate and provide a prompt that is tailored specifically to that objective. Clear context is vital for accurate diagnosis by doctors and for ChatGPT to generate relevant answers. Writing an effective ChatGPT prompt involves providing relevant background information to establish the necessary context for the query."
+    },
+    {
+      "heading": "Use role play",
+      "summary": "By using careful prompting, you can transform ChatGPT from its default tone into something more engaging and interesting, such as emulating the writing style of your favorite author. Additionally, ChatGPT's ability to adopt different perspectives enables role-playing scenarios, including seeking content marketing advice for enhancing brand awareness of a newly launched CRM software..",
+      "citation": [0, 1, 2],
+      "example": "You are a marketing veteran for software products with ten years of experience in the industry. You have built marketing strategies for successful software products like Vimeo, Freshworks, Hubspot, and Zoho. Using your marketing experience, advise me on how to build awareness for my newly launched CRM software product 'Zilio'"
+    },
+    {
+      "heading": "Use references",
+      "summary": " Chatgpt has the capability to mimic the writing style of any celebrity if you specify it in the prompt.",
+      "citation": [0],
+      "example": "Write a list of mistakes to avoid in the 20s in Shakespeare style"
+    },
+    {
+      "heading": "Include the length of the response",
+      "summary": "ChatGPT can deliver impressive results when provided with restrictions, such as specifying the desired length of the response in terms of word count or number of paragraphs. Therefore, it is encouraged to communicate these limitations to the model for more controlled and concise responses.",
+      "citation": [0, 2, 3, 4],
+      "example": "Elaborate about ‘content marketing’ in 300 words."
+    },
+    {
+      "heading": "Keep Your Audience in Mind",
+      "summary": "You can influence the way ChatGPT responds by specifying the intended audience it should consider. Similar to videos that explain complex subjects to people with varying levels of understanding, this approach allows you to tailor ChatGPT's responses to the desired audience and their comprehension level.",
+      "citation": [2],
+      "example": "You can tell ChatGPT that you are speaking to a bunch of 10-year-olds or to an audience of business entrepreneurs and it will respond accordingly."
+    },
+    {
+      "heading": "Define the expected formats",
+      "summary": "GPT has the capability to generate output in different programming languages such as Python and HTML, as well as visual styles like charts and CSVs. By specifying the format of both your input and desired output, you can ensure that GPT provides you with the exact information or code you need, tailored to your specific requirements.",
+      "citation": [3],
+      "example": "Write a Python function that takes a list of numbers and returns the sum of all the numbers in the list."
+    },
+    {
+      "heading": "Ask it to help you come up with a prompt",
+      "summary": "The concept is to utilize AI models as brainstorming tools by leveraging their knowledge base and pattern recognition capabilities. This allows the models to generate prompt ideas that you may not have considered, providing fresh insights and expanding the range of possibilities in your thinking process.",
+      "citation": [3],
+      "example": "I'm looking to create a prompt for error messages. I have a few needs: I need to understand the error, I need the main components of the error broken down, and I need to know what's happened sequentially leading up to the error, its possible root causes, and recommended next steps—and I need all this info formatted in bullet points."
+    },
+    {
+      "heading": "Be Specific In Your Writing",
+      "summary": "To obtain more useful answers from AI models, it is recommended to provide specific instructions or ask for a particular kind of information instead of asking general questions. By being specific in your queries, you can receive more focused and relevant responses tailored to your specific needs.",
+      "citation": [4],
+      "example": "“What is the capital of France?” instead of “What is the capital of a European country?”"
+    }
+  ],
+  "Article": [
+    {
+      "url": "https://writesonic.com/blog/how-to-write-chatgpt-prompts/",
+      "tittle": "How to write the perfect ChatGPT prompt and become a Prompt writer"
+    },
+    {
+      "url": "https://www.zdnet.com/article/how-to-write-better-chatgpt-prompts/",
+      "tittle": "How to write better ChatGPT prompts"
+    },
+    {
+      "url": "https://www.wired.com/story/11-tips-better-chatgpt-prompts/",
+      "tittle": "11 Tips to Take Your ChatGPT Prompts to the Next Level"
+    },
+    {
+      "url": "https://zapier.com/blog/gpt-prompt/",
+      "tittle": "How to write an effective GPT-3 or GPT-4 prompt"
+    },
+    {
+      "url": "https://www.greataiprompts.com/chat-gpt/how-to-write-better-chat-gpt-or-gpt-prompts/?expand_article=1",
+      "tittle": "How To Write Better GPT-4 Prompts To Get Better Results?"
+    }
+  ]
+}
